@@ -6,8 +6,8 @@ This module demonstrates and practices:
         possibly CAPTURING the RETURNED VALUE in a VARIABLE.
   -- UNIT TESTING.
 
-Authors: David Mutchler, Dave Fisher, Vibha Alangar, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
+Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
+         Aaron Wilkin, their colleagues, and PUT_YOUR_NAME_HERE.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import m4t_tester

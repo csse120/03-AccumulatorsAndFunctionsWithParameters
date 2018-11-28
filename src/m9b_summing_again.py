@@ -3,8 +3,8 @@ This module lets you practice the ACCUMULATOR pattern
 in its simplest classic forms:
    SUMMING:       total = total + number
 
-Authors: David Mutchler, Dave Fisher, Vibha Alangar, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
+Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
+         Aaron Wilkin, their colleagues, and PUT_YOUR_NAME_HERE.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 
