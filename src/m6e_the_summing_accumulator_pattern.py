@@ -5,11 +5,11 @@ Authors: Many, many people over many, many years.
          David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
          Amanda Stouder, Aaron Wilkin, and their colleagues wrote this version.
 """
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # Students: Read and run this program.  Just use it as an example.
 #
 #   There is nothing for you to turn in from this file.
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 
 
 def main():
@@ -60,7 +60,7 @@ def sum_squares(n):
     return total
 
 
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 main()

@@ -5,10 +5,10 @@ but you should be able to pass all of its tests.
 
 Authors: Mark Hays and others.
 """
-##############################################################
+###############################################################################
 # Do not change this file.
 # Tt is intended only as a way to check your code.
-##############################################################
+###############################################################################
 
 import m4_calling_functions_returning_values as m4
 import sys
@@ -23,11 +23,11 @@ def main():
     run_test_fancy_sums_of_digits()
 
 
-######################################################################
+###############################################################################
 # Do not worry about understanding the code below this line.
 # It is used to test your code cleanly, but you are not expected to
 # understand how it works at this point.
-######################################################################
+###############################################################################
 
 def run_test_sum_of_digits():
     """ Tests the  sum_of_digits  function. """
@@ -174,9 +174,9 @@ class TestCaseCollection():
         self.expectedPrints.append(expectedPrint)
         self.expectedArgumentsAfter.append(expectedArgsAfter)
 
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # If this module is running at the top level (as opposed to being
 # imported by another module), then call the 'main' function.
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 if __name__ == '__main__':
     main()

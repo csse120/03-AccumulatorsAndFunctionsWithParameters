@@ -9,10 +9,10 @@
 #        -- DEFINING a function that has PARAMETERS
 #        -- CALLING a function with actual ARGUMENTS.
 #
-# ******************************************************************************
+# *****************************************************************************
 #      If you are NOT 100% clear on the above concepts,
-#      ask your professor or a student assistant about them during class.
-# ******************************************************************************
+#      ask your instructor or a student assistant about them during class.
+# *****************************************************************************
 #
 # After you have completed the above, mark this _TODO_ as DONE.
 #

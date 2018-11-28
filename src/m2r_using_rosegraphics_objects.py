@@ -8,7 +8,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
          Aaron Wilkin, their colleagues, and PUT_YOUR_NAME_HERE.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
-########################################################################
+###############################################################################
 #
 # TODO: 2.
 #   RUN this program.  Then answer the following,
@@ -65,7 +65,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 #   to the above questions (ASK QUESTIONS AS NEEDED!),
 #   change the above TODO to DONE.
 #
-########################################################################
+###############################################################################
 
 import rosegraphics as rg
 
@@ -165,7 +165,7 @@ def example3():
     window.close_on_mouse_click()
 
 
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 main()
