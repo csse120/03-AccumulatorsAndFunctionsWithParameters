@@ -20,11 +20,12 @@
 
 
 def main():
-    hello("Snow White")
-    goodbye("Bashful")
-    hello("Grumpy")
-    hello("Sleepy")
-    hello_and_goodbye("Magic Mirror", "Cruel Queen")
+    hello("Grace Hopper")
+    goodbye("Ada Lovelace")
+    hello("Mataric")
+    hello("Rus")
+    hello_and_goodbye("One", "Two")
+    hello_and_goodbye("Two", "One")
 
 
 def hello(friend):
@@ -33,13 +34,11 @@ def hello(friend):
 
 def goodbye(friend):
     print("Goodbye,", friend, '- see you later!')
-    print('   Ciao!')
-    print('   Bai bai!')
 
 
 def hello_and_goodbye(person1, person2):
-    hello(person1)
-    goodbye(person2)
+    hello(person2)
+    goodbye(person1)
 
 
 main()
