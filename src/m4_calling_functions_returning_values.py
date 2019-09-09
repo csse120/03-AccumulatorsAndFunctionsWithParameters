@@ -47,7 +47,7 @@ def run_test_sum_of_digits():
     #  ___
     #  Step 2:  Pick a test case:  a number that you could send as
     #    an actual argument to the  sum_of_digits  function.
-    #      - For example, you could pick the test case  826.
+    #    For example, you could pick the test case  826.
     #  ___
     #  Step 3: Figure out the CORRECT (EXPECTED) answer for your
     #    test case.  In the example of  826  the correct answer
@@ -155,11 +155,10 @@ def digits_in_cube(n):
     # TODO: 4. Implement and test this function.
     #   Note that you should write its TEST function first (above).
     #   That is called TEST-FIRST DEVELOPMENT (TFD).
-    #
-    ###########################################################################
-    # IMPORTANT: CALL, as many times as needed,
+    #  ########################################################################
+    #  IMPORTANT: CALL, as many times as needed,
     #    the    sum_of_digits    function that is DEFINED ABOVE.
-    ###########################################################################
+    #  ########################################################################
     # -------------------------------------------------------------------------
 
 
@@ -195,11 +194,10 @@ def digits_in_power(n, k):
     """
     # -------------------------------------------------------------------------
     # TODO: 6. Implement and test this function.
-    #
-    ###########################################################################
-    # IMPORTANT: CALL, as many times as needed,
+    #  ########################################################################
+    #  IMPORTANT: CALL, as many times as needed,
     #    the    sum_of_digits    function that is DEFINED ABOVE.
-    ###########################################################################
+    #  ########################################################################
     # -------------------------------------------------------------------------
 
 
@@ -256,12 +254,12 @@ def fancy_sums_of_digits(n):
     """
     # -------------------------------------------------------------------------
     # TODO: 8. Implement and test this function.
-    #
-    ###########################################################################
-    # IMPORTANT: CALL, as many times as needed,
+    #  ########################################################################
+    #  IMPORTANT: CALL, as many times as needed,
     #    the    sum_of_digits    function that is DEFINED ABOVE.
-    ###########################################################################
+    #  ########################################################################
     # -------------------------------------------------------------------------
+
 
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
