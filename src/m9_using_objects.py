@@ -32,6 +32,7 @@ def two_circles():
     #     -- File  COLORS.pdf  lists all legal color-names.
     #   Put a statement in   main   to test this function
     #    (by calling this function).
+    #   HINT: Module  m2r_using_rosegraphics  has helpful examples for this.
     # -------------------------------------------------------------------------
 
 
@@ -71,6 +72,7 @@ def circle_and_rectangle():
     #    -- ANY objects that meet the criteria are fine.
     #  Put a statement in   main   to test this function
     #    (by calling this function).
+    #   HINT: Module  m2r_using_rosegraphics  has helpful examples for this.
     #  ___
     #  IMPORTANT: Use the DOT TRICK to guess the names of the relevant
     #       instance variables for outline thickness, etc.
