@@ -39,20 +39,20 @@ def run_test_sum_of_digits():
     """ Tests the  sum_of_digits   function. """
     # -------------------------------------------------------------------------
     # TODO: 2. Implement this TEST function, as follows:
-    #
+    #  ___
     #  Step 1:  This TEST function tests the  sum_of_digits  function.
     #    So read the doc-string of the  sum_of_digits  function
     #    defined below.  Be sure that you understand from the
     #    doc-string what the  sum_of_digits  function SHOULD return.
-    #
+    #  ___
     #  Step 2:  Pick a test case:  a number that you could send as
     #    an actual argument to the  sum_of_digits  function.
     #      - For example, you could pick the test case  826.
-    #
+    #  ___
     #  Step 3: Figure out the CORRECT (EXPECTED) answer for your
     #    test case.  In the example of  826  the correct answer
     #    for the sum of its digits is  8 + 2 + 6, which is 16.
-    #
+    #  ___
     #  Step 4: Write code that prints both the EXPECTED answer
     #    and the ACTUAL answer returned when you call the function.
     #    See the example below.
@@ -70,7 +70,7 @@ def run_test_sum_of_digits():
 
     # -------------------------------------------------------------------------
     # TODO: 2 (continued).
-    # Below this comment, add 3 more test cases of your own choosing.
+    #   Below this comment, add 3 more test cases of your own choosing.
     # -------------------------------------------------------------------------
 
 
@@ -83,7 +83,8 @@ def sum_of_digits(number):
       If the integer is 83135,
       this function returns (8 + 3 + 1 + 3 + 5), which is 20.
     Type hints:
-      type: number int
+      type: number: int
+      :rtype: int
     """
     # -------------------------------------------------------------------------
     # Students:
@@ -115,21 +116,21 @@ def run_test_digits_in_cube():
     # TODO: 3. Implement this function.
     #   It TESTS the  digits_in_cube  function defined below.
     #   Include at least **   3   ** tests.
-    #
-    # To implement this TEST function, use the same 4 steps as above:
-    #
+    #   ___
+    #   To implement this TEST function, use the same 4 steps as above:
+    #   ___
     #   Step 1: Read the doc-string of  digits_in_cube  below.
     #     Understand what that function SHOULD return.
-    #
+    #   ___
     #   Step 2:  Pick a test case:  a number(s) that you could send as
     #     actual argument(s) to the  digits_in_cube  function.
-    #
+    #  ___
     #  Step 3: Figure out the CORRECT (EXPECTED) answer for your test case.
-    #
+    #  ___
     #  Step 4: Write code that prints both the EXPECTED answer
     #    and the ACTUAL answer returned when you call the function.
     #    Follow the same form as in previous examples.
-    #
+    #  ___
     #   Include at least **   3   ** tests.
     # -------------------------------------------------------------------------
     print()
@@ -148,12 +149,12 @@ def digits_in_cube(n):
       this function returns (1 + 2 + 5), which is 8.
     Type hints:
       :type n: int
-      :rt
+      :rtype: int
     """
     # -------------------------------------------------------------------------
     # TODO: 4. Implement and test this function.
     #   Note that you should write its TEST function first (above).
-    #   That is called TEST-DRIVEN DEVELOPMENT (TDD).
+    #   That is called TEST-FIRST DEVELOPMENT (TFD).
     #
     ###########################################################################
     # IMPORTANT: CALL, as many times as needed,
@@ -168,8 +169,8 @@ def run_test_digits_in_power():
     # TODO: 5. Implement this function.
     #   It TESTS the  digits_in_power  function defined below.
     #   Include at least **   3   ** tests.
-    #
-    # Use the same 4-step process as in implementing previous TEST functions.
+    #   ___
+    #   Use the same 4-step process as in implementing previous TEST functions.
     # -------------------------------------------------------------------------
     print()
     print('--------------------------------------------------')
@@ -187,6 +188,10 @@ def digits_in_power(n, k):
       If the arguments are 12 and 3, respectively,
       this function returns 18
       since 12 to the 3rd power is 1728 (whose digits sum to 18).
+    Type hints:
+      :type n: int
+      :type k: int
+      :rtype: int
     """
     # -------------------------------------------------------------------------
     # TODO: 6. Implement and test this function.
@@ -204,9 +209,9 @@ def run_test_fancy_sums_of_digits():
     # TODO: 7. Implement this function.
     #   It TESTS the  fancy_sums_of_digits  function defined below.
     #   Include at least **   3   ** tests.
-    #
-    # Use the same 4-step process as in implementing the previous
-    # TEST functions.
+    #   ___
+    #   Use the same 4-step process as in implementing the previous
+    #   TEST functions.
     # -------------------------------------------------------------------------
     print()
     print('--------------------------------------------------')
@@ -228,7 +233,7 @@ def fancy_sums_of_digits(n):
     What goes out:
       -- Let X denote the   sum   of the digits in (n ** 1000).
       -- Let Y denote the   sum   of the digits in (n ** 999).
-      This function RETURNs the sum of the digits in (X ** Y).
+      This function RETURNS the sum of the digits in (X ** Y).
     Side effects:   None.
     Examples:
       -- If n is 2, then:
@@ -245,6 +250,9 @@ def fancy_sums_of_digits(n):
                      (don't try to print it!)
             -- the sum of the digits in (X ** Y) is 124309 (trust me!)
             -- so this function returns 124309.
+    Type hints:
+      :type n: int
+      :rtype: int
     """
     # -------------------------------------------------------------------------
     # TODO: 8. Implement and test this function.

@@ -28,9 +28,9 @@ def two_circles():
     """
     # -------------------------------------------------------------------------
     # TODO: 2. Implement this function, per its green doc-string above.
-    #    -- ANY two rg.Circle objects that meet the criteria are fine.
-    #    -- File  COLORS.pdf  lists all legal color-names.
-    # Put a statement in   main   to test this function
+    #     -- ANY two rg.Circle objects that meet the criteria are fine.
+    #     -- File  COLORS.pdf  lists all legal color-names.
+    #   Put a statement in   main   to test this function
     #    (by calling this function).
     # -------------------------------------------------------------------------
 
@@ -68,11 +68,11 @@ def circle_and_rectangle():
     """
     # -------------------------------------------------------------------------
     # TODO: 3. Implement this function, per its green doc-string above.
-    #   -- ANY objects that meet the criteria are fine.
-    # Put a statement in   main   to test this function
+    #    -- ANY objects that meet the criteria are fine.
+    #  Put a statement in   main   to test this function
     #    (by calling this function).
-    #
-    # IMPORTANT: Use the DOT TRICK to guess the names of the relevant
+    #  ___
+    #  IMPORTANT: Use the DOT TRICK to guess the names of the relevant
     #       instance variables for outline thickness, etc.
     # -------------------------------------------------------------------------
 

@@ -52,6 +52,9 @@ def sum_squares(n):
     Example:
       If n is 5,
       this function returns 1 + 4 + 9 + 16 + 25,   which is 55.
+    Type hints:
+      :type n: int
+      :rtype: int
     """
     total = 0
     for k in range(n):

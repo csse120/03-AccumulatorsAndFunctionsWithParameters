@@ -7,6 +7,17 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
          Derek Whitley, their colleagues, and PUT_YOUR_NAME_HERE.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
+###############################################################################
+# TODO: Read the following, then change its _TODO_ to DONE.
+#   Throughout these exercises, you must use  RANGE  statements.
+#   At this point of the course, you are restricted to the SINGLE-ARGUMENT
+#   form of RANGE statements, like this:
+#      range(blah):
+#   There is a MULTIPLE-ARGUMENT form of RANGE statements (e.g. range(a, b))
+#   but you are NOT permitted to use the MULTIPLE-ARGUMENT form yet,
+#   for pedagogical reasons.
+###############################################################################
+
 
 def main():
     """ Calls the   TEST   functions in this module. """
@@ -20,9 +31,9 @@ def run_test_sum_cosines():
     # TODO: 2. Implement this function.
     #   It TESTS the  sum_cosines  function defined below.
     #   Include at least **   3   ** tests.
-    #
-    # Use the same 4-step process as in implementing previous
-    # TEST functions, including the same way to print expected/actual.
+    #  ___
+    #  Use the same 4-step process as in implementing previous
+    #  TEST functions, including the same way to print expected/actual.
     # -------------------------------------------------------------------------
     print()
     print('--------------------------------------------------')
@@ -39,14 +50,17 @@ def sum_cosines(n):
     Example:
       If n is 3, this function returns
         cos(0) + cos(1) + cos(2) + cos(3)   which is about 0.13416.
+    Type hints:
+      :type n: int
+      :rtype: float
     """
     # -------------------------------------------------------------------------
     # TODO: 3. Implement and test this function.
     #   Note that you should write its TEST function first (above).
-    #   That is called TEST-DRIVEN DEVELOPMENT (TDD).
-    #
-    #   No fair running the code of  sum_cosines  to GENERATE
-    #   test cases; that would defeat the purpose of TESTING!
+    #   That is called TEST-FIRST DEVELOPMENT (TFD).
+    #  ___
+    #  No fair running the code of  sum_cosines  to GENERATE
+    #  test cases; that would defeat the purpose of TESTING!
     # -------------------------------------------------------------------------
 
 
@@ -56,9 +70,9 @@ def run_test_sum_square_roots():
     # TODO: 4. Implement this function.
     #   It TESTS the  sum_square_roots  function defined below.
     #   Include at least **   3   ** tests.
-    #
-    # Use the same 4-step process as in implementing previous
-    # TEST functions, including the same way to print expected/actual.
+    #  ___
+    #  Use the same 4-step process as in implementing previous
+    #  TEST functions, including the same way to print expected/actual.
     # -------------------------------------------------------------------------
     print()
     print('--------------------------------------------------')
@@ -78,14 +92,17 @@ def sum_square_roots(n):
       If n is 5, this function returns
          sqrt(2) + sqrt(4) + sqrt(6) + sqrt(8) + sqrt(10),
       which is about 11.854408.
+    Type hints:
+      :type n: int
+      :rtype: float
     """
     # -------------------------------------------------------------------------
     # TODO: 5. Implement and test this function.
     #   Note that you should write its TEST function first (above).
-    #   That is called TEST-DRIVEN DEVELOPMENT (TDD).
-    #
-    #   No fair running the code of  sum_square_roots  to GENERATE
-    #   test cases; that would defeat the purpose of TESTING!
+    #   That is called TEST-FIRST DEVELOPMENT (TFD).
+    #  ___
+    #  No fair running the code of  sum_square_roots  to GENERATE
+    #  test cases; that would defeat the purpose of TESTING!
     # -------------------------------------------------------------------------
 
 

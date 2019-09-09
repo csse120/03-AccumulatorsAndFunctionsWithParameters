@@ -11,6 +11,17 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 
 import rosegraphics as rg
 
+###############################################################################
+# TODO: Read the following, then change its _TODO_ to DONE.
+#   Throughout these exercises, you must use  RANGE  statements.
+#   At this point of the course, you are restricted to the SINGLE-ARGUMENT
+#   form of RANGE statements, like this:
+#      range(blah):
+#   There is a MULTIPLE-ARGUMENT form of RANGE statements (e.g. range(a, b))
+#   but you are NOT permitted to use the MULTIPLE-ARGUMENT form yet,
+#   for pedagogical reasons.
+###############################################################################
+
 
 def main():
     """ Calls the other functions to demonstrate and/or test them. """
@@ -30,8 +41,8 @@ def print_sequence1():
     """
     # -------------------------------------------------------------------------
     # TODO: 2. Implement this function, per its doc-string above.
-    # Put a statement in  main  to test this function.
-    # REQUIREMENT: You must use a   RANGE  statement to solve this problem.
+    #   Put a statement in  main  to test this function.
+    #   REQUIREMENT: You must use a   RANGE  statement to solve this problem.
     # -------------------------------------------------------------------------
     print()
     print('--------------------------------------------------')
@@ -49,9 +60,9 @@ def draw_circles1():
     """
     # -------------------------------------------------------------------------
     # TODO: 3. Implement this function, per its doc-string above.
-    # Put a statement in  main  to test this function.
-    # REQUIREMENT: You must use a   RANGE  statement to solve this problem.
-    # HINT: You might find a prior module useful when 'writing' this code.
+    #   Put a statement in  main  to test this function.
+    #   REQUIREMENT: You must use a   RANGE  statement to solve this problem.
+    #   HINT: Module  m2r_using_rosegraphics  has helpful examples for this.
     # -------------------------------------------------------------------------
     print()
     print('--------------------------------------------------')
@@ -72,8 +83,8 @@ def print_sequence2():
     """
     # -------------------------------------------------------------------------
     # TODO: 4. Implement this function, per its doc-string above.
-    # Put a statement in  main  to test this function.
-    # REQUIREMENT: You must use a   RANGE  statement to solve this problem.
+    #   Put a statement in  main  to test this function.
+    #   REQUIREMENT: You must use a   RANGE  statement to solve this problem.
     # -------------------------------------------------------------------------
     print()
     print('--------------------------------------------------')
@@ -93,8 +104,9 @@ def draw_circles2():
     """
     # -------------------------------------------------------------------------
     # TODO: 5. Implement this function, per its doc-string above.
-    # Put a statement in  main  to test this function.
-    # REQUIREMENT: You must use a   RANGE  statement to solve this problem.
+    #   Put a statement in  main  to test this function.
+    #   REQUIREMENT: You must use a   RANGE  statement to solve this problem.
+    #   HINT: Module  m2r_using_rosegraphics  has helpful examples for this.
     # -------------------------------------------------------------------------
     print()
     print('--------------------------------------------------')
@@ -114,8 +126,8 @@ def print_sequence3():
     """
     # -------------------------------------------------------------------------
     # TODO: 6. Implement this function, per its doc-string above.
-    # Put a statement in  main  to test this function.
-    # REQUIREMENT: You must use a   RANGE  statement to solve this problem.
+    #   Put a statement in  main  to test this function.
+    #   REQUIREMENT: You must use a   RANGE  statement to solve this problem.
     # -------------------------------------------------------------------------
     print()
     print('--------------------------------------------------')
@@ -133,8 +145,8 @@ def draw_circles3():
     """
     # -------------------------------------------------------------------------
     # TODO: 7. Implement this function, per its doc-string above.
-    # Put a statement in  main  to test this function.
-    # REQUIREMENT: You must use a   RANGE  statement to solve this problem.
+    #   Put a statement in  main  to test this function.
+    #   REQUIREMENT: You must use a   RANGE  statement to solve this problem.
     # -------------------------------------------------------------------------
     print()
     print('--------------------------------------------------')
