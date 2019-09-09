@@ -57,7 +57,7 @@ def draw_circles1():
          -- Each is centered at (400, 400)
          -- They have radii:  0  10  20  30  40 ... 200, respectively.
     -- Waits for the user to press the mouse, then closes the window.
-    See   circles.pdf  in this project for a picture of the correct drawing.
+    See   CIRCLES.pdf  in this project for a picture of the correct drawing.
     """
     # -------------------------------------------------------------------------
     # TODO: 3. Implement this function, per its doc-string above.
@@ -102,7 +102,7 @@ def draw_circles2():
          -- They are centered at, respectively:
                (50, 100)   (70, 100)   (90, 100)  (110, 100) ... (390, 100)
     -- Waits for the user to press the mouse, then closes the window.
-    See   circles.pdf  in this project for a picture of the correct drawing.
+    See   CIRCLES.pdf  in this project for a picture of the correct drawing.
     """
     # -------------------------------------------------------------------------
     # TODO: 5. Implement this function, per its doc-string above.
@@ -144,7 +144,7 @@ def draw_circles3():
          -- Each is centered at (200, 150)
          -- They have radii:  1  2  3  4  ... 100, respectively.
     -- Waits for the user to press the mouse, then closes the window.
-    See   circles.pdf  in this project for a picture of the correct drawing.
+    See   CIRCLES.pdf  in this project for a picture of the correct drawing.
     """
     # -------------------------------------------------------------------------
     # TODO: 7. Implement this function, per its doc-string above.
@@ -206,7 +206,7 @@ def draw_cosines_and_sines():
                    ...
                ( 200 + (80 * cos(100)), 200 + (80 * sin(100) )
     -- Waits for the user to press the mouse, then closes the window.
-    See   circles.pdf  in this project for a picture of the correct drawing.
+    See   CIRCLES.pdf  in this project for a picture of the correct drawing.
     """
     # -------------------------------------------------------------------------
     # TODO: 9. Implement this function, per its doc-string above.
