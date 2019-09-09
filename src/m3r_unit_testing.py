@@ -129,16 +129,16 @@ main()
 # Testing is a BIG topic, but UNIT TESTING like the code above is a start.
 #
 # One more thing:
-# Students sometimes confuse PRINT and RETURN because  you will almost
+# Students sometimes confuse PRINT and RETURN because you will almost
 # always test your functions using this
 #    capture-in-variable-then-print-variable
 # approach.  From that alone, it looks like the function could have
-# PRINTED the result instead of RETURNing it.
+# PRINTED the result instead of RETURNING it.
 # But remember -- in REAL programs, functions rarely print anything;
 #
 #   ** Functions  RETURN  values for OTHER functions to use. **
 #
 # We are teaching you practices that scale up, so we demand that most
 # of the functions that you write from here on RETURN a value instead
-# of PRINTing it.
+# of PRINTING it.
 ###############################################################################
