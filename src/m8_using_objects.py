@@ -29,7 +29,7 @@ def two_circles():
     # -------------------------------------------------------------------------
     # TODO: 2. Implement this function, per its green doc-string above.
     #     -- ANY two rg.Circle objects that meet the criteria are fine.
-    #     -- File  COLORS.pdf  lists all legal color-names.
+    #     -- File  COLORS.txt  lists all legal color-names.
     #   Put a statement in   main   to test this function
     #    (by calling this function).
     #   HINT: Module  m2r_using_rosegraphics  has helpful examples for this.
