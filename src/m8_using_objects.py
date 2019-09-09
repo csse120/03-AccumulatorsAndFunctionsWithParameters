@@ -44,14 +44,15 @@ def circle_and_rectangle():
           -- They fit in the window and are easily visible.
           -- The rg.Circle is filled with 'blue'
     -- Prints (on the console, on SEPARATE lines) the following data
-         associated with your rg.Circle:
+         associated with your rg.Circle (using its INSTANCE VARIABLES):
           -- Its outline thickness.
           -- Its fill color.
           -- Its center.
           -- Its center's x coordinate.
           -- Its center's y coordinate.
     -- Prints (on the console, on SEPARATE lines) the same data
-         but for your rg.Rectangle.
+         but for your rg.Rectangle.  (Hint: For this, you'll need to use
+         a METHOD that begins with "get".)
     -- Waits for the user to press the mouse, then closes the window.
 
     Here is an example of the output on the console,
