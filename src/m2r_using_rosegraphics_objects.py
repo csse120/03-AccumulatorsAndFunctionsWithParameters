@@ -11,8 +11,20 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 ###############################################################################
 #
 # TODO: 2.
-#   RUN this program.  Then answer the following,
-#     GETTING HELP AS NEED! (Ask questions!!!)
+#   Allow this module to use the  rosegraphics.py  module by marking the
+#     src
+#   folder in this project as a "Sources Root", as follows:
+#
+#     In the Project window (to the left), right click on the src  folder,
+#     then select  Mark Directory As  ~  Sources Root.
+#
+###############################################################################
+
+###############################################################################
+#
+# TODO: 3.
+#   RUN this program.  Then answer the following, FOLLOWING YOUR INSTRUCTOR
+#     and GETTING HELP AS NEED! (Ask questions!!!)
 #
 #     a. For the RoseGraphics coordinate system:
 #
@@ -31,11 +43,13 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 #            WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
 #
 #     c. What is the default height of a RoseWindow?
-#        (Use the HOVER trick to determine the answer to this question.)
+#        (Select RoseWindow, then     View ~ Quick Documentation
+#         to determine the answer to this question.)
 #            WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
 #
 #     d. Write a line of code that construct a RoseWindow object
-#        whose height is 100:  (Use the HOVER trick to figure it out)
+#        whose height is 100:
+#        (Use the   View ~ Quick Documentation   trick to figure it out)
 #            WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
 #
 #     e. Use the DOT trick to answer the following:
@@ -63,7 +77,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 #
 #   When you are confident that you have written correct answers
 #   to the above questions (ASK QUESTIONS AS NEEDED!),
-#   change the above TODO to DONE.
+#   change the above _TODO_ to DONE.
 #
 ###############################################################################
 
