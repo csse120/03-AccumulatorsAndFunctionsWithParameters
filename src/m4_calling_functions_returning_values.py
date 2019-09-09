@@ -1,7 +1,7 @@
 """
 This module demonstrates and practices:
-  -- using ARGUMENTs in function CALLs,
-  -- having PARAMETERs in function DEFINITIONs, and
+  -- using ARGUMENTS in function CALLs,
+  -- having PARAMETERS in function DEFINITIONS, and
   -- RETURNING a value from a function,
         possibly CAPTURING the RETURNED VALUE in a VARIABLE.
   -- UNIT TESTING.
@@ -29,7 +29,7 @@ def main():
     #          "COMPLETED SUCCESSFULLY!"
     #    -- If your code fails any of OUR tests but passes YOUR tests,
     #         then you are likely not TESTING the methods correctly.
-    #       ** Ask a TA or your professor for help in that case. **
+    #       ** Ask a student assistant or instructor for help in that case. **
     # -------------------------------------------------------------------------
 
     # m4t_tester.main()
@@ -69,7 +69,7 @@ def run_test_sum_of_digits():
     print('       actual:  ', answer)
 
     # -------------------------------------------------------------------------
-    # TO DO: 2 (continued).
+    # TODO: 2 (continued).
     # Below this comment, add 3 more test cases of your own choosing.
     # -------------------------------------------------------------------------
 
@@ -82,10 +82,12 @@ def sum_of_digits(number):
     Example:
       If the integer is 83135,
       this function returns (8 + 3 + 1 + 3 + 5), which is 20.
+    Type hints:
+      type: number int
     """
     # -------------------------------------------------------------------------
     # Students:
-    #   Do NOT touch this function - it has no TO DO in it.
+    #   Do NOT touch this function - it has no _TODO_ in it.
     #   Do NOT copy code from this function.
     #
     # Instead, ** CALL ** this function as needed in the other problems.
