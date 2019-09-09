@@ -52,9 +52,9 @@ def print_sequence1():
 
 def draw_circles1():
     """
-    -- Constructs an rg.RoseWindow whose width and height are both 400.
+    -- Constructs an rg.RoseWindow whose width and height are both 800.
     -- Constructs and draws 21 rg.Circle objects such that:
-         -- Each is centered at (200, 200)
+         -- Each is centered at (400, 400)
          -- They have radii:  0  10  20  30  40 ... 200, respectively.
     -- Waits for the user to press the mouse, then closes the window.
     """
