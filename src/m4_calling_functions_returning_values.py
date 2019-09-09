@@ -146,6 +146,9 @@ def digits_in_cube(n):
     Example:
       If the integer (n) is 5    (so n cubed is 125),
       this function returns (1 + 2 + 5), which is 8.
+    Type hints:
+      :type n: int
+      :rt
     """
     # -------------------------------------------------------------------------
     # TODO: 4. Implement and test this function.

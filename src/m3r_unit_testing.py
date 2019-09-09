@@ -57,7 +57,7 @@ def distance(point):
       If the argument is  rg.Point(3, 4)  this function returns 5.
     Type hints:
       :type point: rg.Point
-      :rtype float
+      :rtype: float
     """
     # This code has an error, on purpose.  Do NOT fix it.
     x_squared = point.x * point.x
