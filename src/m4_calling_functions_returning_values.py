@@ -124,14 +124,14 @@ def run_test_digits_in_cube():
     #   ___
     #   Step 2:  Pick a test case:  a number(s) that you could send as
     #     actual argument(s) to the  digits_in_cube  function.
+    #   ___
+    #   Step 3: Figure out the CORRECT (EXPECTED) answer for your test case.
     #  ___
-    #  Step 3: Figure out the CORRECT (EXPECTED) answer for your test case.
+    #   Step 4: Write code that prints both the EXPECTED answer
+    #     and the ACTUAL answer returned when you call the function.
+    #     Follow the same form as in previous examples.
     #  ___
-    #  Step 4: Write code that prints both the EXPECTED answer
-    #    and the ACTUAL answer returned when you call the function.
-    #    Follow the same form as in previous examples.
-    #  ___
-    #   Include at least **   3   ** tests.
+    #  Include at least **   3   ** tests.
     # -------------------------------------------------------------------------
     print()
     print('-----------------------------------------------------')
