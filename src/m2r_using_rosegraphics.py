@@ -31,19 +31,17 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 #        -- Where is the (0, 0) point on the screen?
 #              WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
 #
-#        -- In what direction on the screen
-#           does the positive X-axis point?
+#        -- In what direction on the screen does the positive X-axis point?
 #              WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
 #
-#        -- In what direction on the screen
-#           does the positive Y-axis point?
+#        -- In what direction on the screen does the positive Y-axis point?
 #              WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
 #
 #     b. Write a line of code that constructs a RoseWindow object:
 #            WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
 #
 #     c. What is the default height of a RoseWindow?
-#        (Select RoseWindow, then     View ~ Quick Documentation
+#        (Select RoseWindow in the code below, then  View ~ Quick Documentation
 #         to determine the answer to this question.)
 #            WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
 #
