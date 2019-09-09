@@ -8,7 +8,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 ###############################################################################
-# TODO: Read the following, then change its _TODO_ to DONE.
+# TODO: 2. Read the following, then change its _TODO_ to DONE.
 #   Throughout these exercises, you must use  RANGE  statements.
 #   At this point of the course, you are restricted to the SINGLE-ARGUMENT
 #   form of RANGE statements, like this:
@@ -28,7 +28,7 @@ def main():
 def run_test_sum_cosines():
     """ Tests the   sum_cosines   function. """
     # -------------------------------------------------------------------------
-    # TODO: 2. Implement this function.
+    # TODO: 3. Implement this function.
     #   It TESTS the  sum_cosines  function defined below.
     #   Include at least **   3   ** tests.
     #  ___
@@ -55,7 +55,7 @@ def sum_cosines(n):
       :rtype: float
     """
     # -------------------------------------------------------------------------
-    # TODO: 3. Implement and test this function.
+    # TODO: 4. Implement and test this function.
     #   Note that you should write its TEST function first (above).
     #   That is called TEST-FIRST DEVELOPMENT (TFD).
     #  ___
@@ -67,7 +67,7 @@ def sum_cosines(n):
 def run_test_sum_square_roots():
     """ Tests the   sum_square_roots   function. """
     # -------------------------------------------------------------------------
-    # TODO: 4. Implement this function.
+    # TODO: 5. Implement this function.
     #   It TESTS the  sum_square_roots  function defined below.
     #   Include at least **   3   ** tests.
     #  ___
@@ -97,7 +97,7 @@ def sum_square_roots(n):
       :rtype: float
     """
     # -------------------------------------------------------------------------
-    # TODO: 5. Implement and test this function.
+    # TODO: 6. Implement and test this function.
     #   Note that you should write its TEST function first (above).
     #   That is called TEST-FIRST DEVELOPMENT (TFD).
     #  ___

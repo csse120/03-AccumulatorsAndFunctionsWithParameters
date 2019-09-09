@@ -8,7 +8,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 ###############################################################################
-# TODO: Read the following, then change its _TODO_ to DONE.
+# TODO: 2. Read the following, then change its _TODO_ to DONE.
 #   Throughout these exercises, you must use  RANGE  statements.
 #   At this point of the course, you are restricted to the SINGLE-ARGUMENT
 #   form of RANGE statements, like this:
@@ -28,7 +28,7 @@ def main():
 def run_test_sum_powers():
     """ Tests the   sum_powers   function. """
     # -------------------------------------------------------------------------
-    # TODO: 2. Implement this function.
+    # TODO: 3. Implement this function.
     #   It TESTS the  sum_powers  function defined below.
     #   Include at least **   3   ** tests.
     #  ___
@@ -58,7 +58,7 @@ def sum_powers(n, p):
       :rtype: int | float
     """
     # -------------------------------------------------------------------------
-    # TODO: 3. Implement and test this function.
+    # TODO: 4. Implement and test this function.
     #   Note that you should write its TEST function first (above).
     #   ___
     #   No fair running the code of  sum_powers  to GENERATE
@@ -69,7 +69,7 @@ def sum_powers(n, p):
 def run_test_sum_powers_in_range():
     """ Tests the   sum_powers_in_range   function. """
     # -------------------------------------------------------------------------
-    # TODO: 4. Implement this function.
+    # TODO: 5. Implement this function.
     #   It TESTS the  sum_powers_in_range  function defined below.
     #   Include at least **   3   ** tests.
     #
@@ -100,7 +100,7 @@ def sum_powers_in_range(m, n, p):
       :rtype: int | float
     """
     # -------------------------------------------------------------------------
-    # TODO: 5. Implement and test this function.
+    # TODO: 6. Implement and test this function.
     #   Note that you should write its TEST function first (above).
     #  ___
     #  No fair running the code of  sum_powers_in_range  to GENERATE
